@@ -1,6 +1,5 @@
 # End-to-end-Text-Summarizer
 
-
 ## Workflows
 
 1. Update config.yaml
