@@ -1,6 +1,6 @@
 transformers
 transformers[sentencepiece]
-datasets
+datasets #for hugging face only
 sacrebleu 
 rouge_score 
 py7zr
@@ -11,7 +11,7 @@ PyYAML
 matplotlib
 torch
 notebook
-boto3
+boto3 # aws
 mypy-boto3-s3
 python-box==6.0.2
 ensure==1.0.2
