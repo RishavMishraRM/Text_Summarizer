@@ -14,3 +14,5 @@
 # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
+
+## 2. Create IAM user for deployment
