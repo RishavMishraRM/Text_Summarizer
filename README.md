@@ -26,3 +26,5 @@
 # Description: About the deployment
 
     1. Build docker image of the source code
+
+    2. Push your docker image to ECR
