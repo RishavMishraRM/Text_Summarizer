@@ -28,3 +28,5 @@
     1. Build docker image of the source code
 
     2. Push your docker image to ECR
+
+    3. Launch Your EC2
