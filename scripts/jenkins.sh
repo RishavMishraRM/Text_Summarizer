@@ -25,6 +25,9 @@ sudo usermod -aG docker $USER
 
 sudo usermod -aG docker jenkins
 
+# sudo reboot
+
+# sudo systemctl status jenkins
 
 newgrp docker
 
