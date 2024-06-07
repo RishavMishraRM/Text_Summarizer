@@ -30,3 +30,5 @@
     2. Push your docker image to ECR
 
     3. Launch Your EC2
+
+    4. Pull Your image from ECR in EC2
