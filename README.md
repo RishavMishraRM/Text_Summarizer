@@ -34,3 +34,5 @@
     4. Pull Your image from ECR in EC2
 
     5. Lauch your docker image in EC2
+
+# Policy in EC2:
