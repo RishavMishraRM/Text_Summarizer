@@ -36,3 +36,5 @@
     5. Lauch your docker image in EC2
 
 # Policy in EC2:
+
+    1. AmazonEC2ContainerRegistryFullAccess
