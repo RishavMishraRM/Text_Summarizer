@@ -38,3 +38,5 @@
 # Policy in EC2:
 
     1. AmazonEC2ContainerRegistryFullAccess
+
+    2. AmazonEC2FullAccess
