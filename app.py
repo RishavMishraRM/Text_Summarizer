@@ -16,7 +16,7 @@ app = FastAPI()
 async def index():
     return RedirectResponse(url="/docs")
 
-
+#text config
 
 @app.get("/train")
 async def training():
