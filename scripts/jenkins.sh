@@ -35,6 +35,7 @@ sudo apt install awscli -y
 
 sudo usermod -a -G docker jenkins
 
+# Elastic IP : http://18.190.19.212:8080/login?from=%2F
 
 ## AWS configuration & restarts jenkins
 
