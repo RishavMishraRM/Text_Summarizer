@@ -64,3 +64,5 @@
     sudo usermod -aG docker ubuntu
 
     newgrp docker
+
+# 6. Configure EC2 as self-hosted runner:
