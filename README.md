@@ -79,4 +79,4 @@
 
     AWS_ECR_LOGIN_URL = 840533584742.dkr.ecr.us-east-1.amazonaws.com/cnnclassifier
 
-    ECR_REPOSITORY_NAME
+    ECR_REPOSITORY_NAME =
