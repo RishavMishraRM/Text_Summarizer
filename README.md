@@ -77,4 +77,4 @@
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URL =
+    AWS_ECR_LOGIN_URL = 840533584742.dkr.ecr.us-east-1.amazonaws.com/cnnclassifier
